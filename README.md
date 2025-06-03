@@ -3,6 +3,7 @@
 Hey there! I'm Ajibodun Ayomide — a curious and passionate Python/Django backend developer who enjoys solving complex problems and building smart, real-world solutions.
 
 🧠 What I Do
+
 I'm a Python/Django backend developer with strong experience in:
 1. Python, Django, FastAPI
 2. SQL (PostgreSQL, MySQL)
