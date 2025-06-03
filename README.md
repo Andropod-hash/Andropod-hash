@@ -12,6 +12,7 @@ I'm a Python/Django backend developer with strong experience in:
 6. JavaScript for frontend integrations
 
 🚀 Projects & Experience
+
 🧑‍💻 User Management System – Full-featured system with authentication, registration, and role-based access control using Django.
 🕷️ Web Scraping Projects – Scraped and processed data using both Scrapy pipelines and Selenium for dynamic content.
 💬 Real-time Chatroom App – Built with Python and Socket.IO to support multiple users chatting in real time.
