@@ -7,14 +7,18 @@ Hey there! I'm Ajibodun Ayomide — a curious and passionate Python/Django backe
 I'm a Python/Django backend developer with strong experience in:
 1. Python, Django, FastAPI
 3. SQL (PostgreSQL, MySQL)
-4. AWS
-5. GIT & GITHUB
-6. REDDIS & RABBIT MQ
-7. CELERY FOR BACKGROUND TASK
-8. Data Structures & Algorithms
-9. Socket.IO for real-time communication
-10. HTML/CSS for full-stack flexibility
-11. JavaScript for frontend integrations
+4. NoSQL (MongoDB, Redis)
+5. Socket.IO for real-time communication
+6. Async programming with Django Channels
+7. Payment Gateway Integration (Paystack, Stripe, Flutterwave)
+8. Celery with Redis (for background task processing)
+9. Versioning APIs
+11. Docker, Postman (for API testing), Swagger / drf-yasg (for API documentation)
+12. JWT Authentication, OAuth2 Authentication, Session-Based Authentication, Role-Based Access Control (RBAC), Two-Factor Authentication (2FA), API Security Best Practices.
+13. Data Structures & Algorithms
+14. Git & GitHub/GitLab (version control), Heroku, DigitalOcean, Render, or AWS (deployment platforms), Docker & Docker Compose, Nginx & Gunicorn (for serving Django apps).
+15. HTML/CSS for full-stack flexibility
+16. JavaScript for frontend integrations
 
 🚀 Projects & Experience
 
