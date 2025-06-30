@@ -24,6 +24,8 @@ I'm a Python/Django backend developer with strong experience in:
 
 💼 Real-World Fintech Projects – Contributed to two production-level fintech apps (private repos). Also handled client work that lives in private GitHub repositories.
 
+NOTE : Most of my real-world projects are stored in private repositories due to client confidentiality, but references can be provided upon request.
+
 💡 Why I Code
 
 For me, coding isn’t just a skill — it’s something I genuinely love. I enjoy the process of thinking through problems, building solutions from scratch, and seeing them come to life. There’s a special kind of satisfaction that comes from turning an idea into a working product — whether it’s a backend system, a chatbot, or even a small game.
