@@ -6,11 +6,15 @@ Hey there! I'm Ajibodun Ayomide — a curious and passionate Python/Django backe
 
 I'm a Python/Django backend developer with strong experience in:
 1. Python, Django, FastAPI
-2. SQL (PostgreSQL, MySQL)
-3. Data Structures & Algorithms
-4. Socket.IO for real-time communication
-5. HTML/CSS for full-stack flexibility
-6. JavaScript for frontend integrations
+3. SQL (PostgreSQL, MySQL)
+4. AWS
+5. GIT & GITHUB
+6. REDDIS & RABBIT MQ
+7. CELERY FOR BACKGROUND TASK
+8. Data Structures & Algorithms
+9. Socket.IO for real-time communication
+10. HTML/CSS for full-stack flexibility
+11. JavaScript for frontend integrations
 
 🚀 Projects & Experience
 
